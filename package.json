@@ -1,0 +1,30 @@
+{
+  "name": "graphql_jsserver",
+  "version": "1.0.0",
+  "description": "A GraphQL Server initial Setup using Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "GraphQl",
+    "graphql",
+    "graphql_js",
+    "graphql-js",
+    "graphql_server",
+    "graphql-server",
+    "graphql_setup",
+    "graphql-setup",
+    "graphiql",
+    "express_graphiql"
+  ],
+  "author": "VigneshKannan (https://github.com/Vigneshkna)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.7.1",
+    "nodemon": "^3.0.1"
+  }
+}
